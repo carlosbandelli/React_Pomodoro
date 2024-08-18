@@ -38,9 +38,11 @@ body {
   text-align: center;
 }
 
-.pomodor .timer {
-  font-size: 6rem;
+.pomodoro .timer {
+  font-size: 7rem;
   text-algin: center;
+  display: flex;
+  justify-content: center;
 }
 
 .pomodoro .controls {
