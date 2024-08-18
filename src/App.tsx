@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { PomodoroTimer } from "./components/pomodoro-timer";
 
 // Função para converter o tempo inserido para segundos
